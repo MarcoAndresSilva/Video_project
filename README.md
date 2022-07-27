@@ -1,7 +1,7 @@
 <h2>
   🚀 Video Project 
 </h2> 
-<h4>  get menu dynamically according to category </h4>
+<h4>  video with interactive buttons </h4>
 
 <h3>Tools & Technologies</h3>
 <p>
